@@ -1,0 +1,93 @@
+html, body
+{
+    margin: 0px;
+    font-family: Inter, sans-serif;
+}
+
+header
+{
+    background-color: #F55A5A;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+header > img
+{
+    margin-right: 7px;
+    width: 24px;
+}
+
+header > span
+{
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.journal-entry
+{
+    display:flex;
+    align-items: center;
+    padding: 45px 40px;
+    margin-bottom: 36px;
+}
+
+.location-details
+{
+    margin-left: 20px;
+}
+
+.img-container
+{
+    width: 187px;
+    height: 252px;
+    overflow: hidden;
+    border-radius: 5px;
+    flex-shrink: 0;
+}
+
+.location-img
+{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+
+.gps-icon
+{
+    width: 18px;
+}
+
+p
+{
+    width: 400px;
+}
+
+.location-country
+{
+    padding-left: 5px;
+    padding-right: 20px;
+    letter-spacing: 3px;
+}
+
+.location-name
+{
+    margin-top: 5px;
+}
+
+.date
+{
+    font-style: bold;
+    font-weight: 700;
+}
+
+.location-desc
+{
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+
+
+
