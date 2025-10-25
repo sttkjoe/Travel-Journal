@@ -1,16 +1,7 @@
-# React + Vite
+# Dynamic Travel Journal
+A travel journal where you can easily input details in a javascript file which contains all the data that needs to be displayed in the webpage.
+An entry can be easily wrote in the data.js file and then it will be automatically displayed with the CSS styling specified for the page.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Vercel app deployment: 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1125" height="866" alt="image" src="https://github.com/user-attachments/assets/1d54fc2f-b2b0-41b1-866e-7bfa9ab4034d" />
